@@ -1,0 +1,4 @@
+Error-01/10/2019 14:36-Procedure or function 'USP_UpdateMediaInqDetails' expects parameter '@InquirySourceD', which was not supplied.
+
+Error-01/10/2019 14:37-Procedure or function 'USP_UpdateMediaInqDetails' expects parameter '@Reporter', which was not supplied.
+
